@@ -38,3 +38,12 @@ const BobLee: FullStackDeveloper = {
 };
 
 BobLee.execute();
+```
+<div align="center">
+  <!-- GitHub 贪吃蛇像素动画 (已添加 ?v=1 强制刷新缓存) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/github-contribution-grid-snake.svg?v=1">
+  </picture>
+</div>
