@@ -1,7 +1,7 @@
 <div align="center">
   <!-- 动态打字机特效，主色调 #39C5BB -->
   <a href="https://github.com/lb15058460816-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39C5BB&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello%2C+World!%22);I+am+Bob+Lee;Loading+UNSW+Workspace...;Welcome+to+the+Oasis." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39C5BB&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello%2C+World!%22);I+am+Bob+Lee!+:D;UNSW+CS+Student;Welcome+to+my+github!" alt="Typing SVG" />
   </a>
 </div>
 
