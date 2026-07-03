@@ -6,10 +6,11 @@
 </div>
 
 
-Hi there! 👋   
-I am [Bob Lee](https://www.boblee.dev/) :D 
+### Hi there! 👋   
+## I am [Bob Lee](https://www.boblee.dev/) :D 
 
-A 19-year-old computer science undergraduate at UNSW-Sydney🧑‍💻. Dedicated to building elegant architectures and non-competitive digital spaces 🍀 — where craft, calm and curiosity matter more than the race.
+A 19-year-old computer science undergraduate at UNSW-Sydney🧑‍💻.   
+Dedicated to building elegant architectures and non-competitive digital spaces 🍀 — where craft, calm and curiosity matter more than the race.
 <br/>
 
 ```typescript
