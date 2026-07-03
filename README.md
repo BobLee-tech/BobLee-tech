@@ -39,11 +39,20 @@ const BobLee: FullStackDeveloper = {
 
 BobLee.execute();
 ```
+<br/>
+
 <div align="center">
-  <!-- GitHub 贪吃蛇像素动画 (已添加 ?v=1 强制刷新缓存) -->
+  <!-- 
+    终极美化版贪吃蛇：Digital Oasis Pixel Pursuit
+    设计理念：
+    1. 彻底像素化：将贡献图转化为像素游戏场景。
+    2. 融入身份：背景包含 UNSW 校园建筑和悉尼天际线的像素缩影。
+    3. 关联项目：贪吃蛇在吃代表代码提交的像素符号（{}, </>, if）。
+    4. 视觉提升：增加动态粒子、发光效果，色调完美契合初音绿 (#39C5BB)。
+  -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/github-contribution-grid-snake.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/digital-oasis-pursuit-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/digital-oasis-pursuit.svg">
+    <img alt="Digital Oasis Pixel Pursuit Animation" src="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/digital-oasis-pursuit.svg">
   </picture>
 </div>
