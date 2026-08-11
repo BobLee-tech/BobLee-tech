@@ -11,7 +11,7 @@
 **I build quiet software with a point of view.**
 
 Computer Science at UNSW Sydney · Frontend / Full-stack  
-Sydney, Australia · [boblee.dev](https://www.boblee.dev) · [Email](mailto:lb15058460816@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bo-li-0a8388389/)
+Sydney, Australia · [boblee.dev](https://www.boblee.dev) · [Email](mailto:lb15058460816@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bob-lee-433011356/))
 
 Most software asks to be noticed. I’m interested in the opposite: interfaces that leave room to think, systems whose structure stays legible as they grow, and details whose charm comes from how they work.
 
