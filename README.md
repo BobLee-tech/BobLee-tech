@@ -1,14 +1,14 @@
 # Bob Lee
-
-**I build quiet software with a point of view.**
-
 <a href="https://www.boblee.dev">
   <img
-    src="./miku-oasis-github-banner.png"
+    src="./miku_with_water.jpg"
     alt="Hatsune Miku touching a ripple that becomes the Oasis constellation"
     width="100%"
   >
 </a>
+
+
+**I build quiet software with a point of view.**
 
 Computer Science at UNSW Sydney · Frontend / Full-stack  
 Sydney, Australia · [boblee.dev](https://www.boblee.dev) · [Email](mailto:lb15058460816@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bo-li-0a8388389/)
@@ -16,6 +16,7 @@ Sydney, Australia · [boblee.dev](https://www.boblee.dev) · [Email](mailto:lb15
 Most software asks to be noticed. I’m interested in the opposite: interfaces that leave room to think, systems whose structure stays legible as they grow, and details whose charm comes from how they work.
 
 Open to frontend and full-stack internships in Sydney.
+
 
 ---
 
