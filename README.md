@@ -1,64 +1,57 @@
-<div align="center">
-  <!-- 动态打字机特效，主色调 #39C5BB -->
-  <a href="https://github.com/lb15058460816-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39C5BB&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello%2C+World!%22);I+am+Bob+Lee!+:D;UNSW+CS+Student;Welcome+to+my+github!" alt="Typing SVG" />
-  </a>
-</div>
+# Bob Lee
 
+**I build quiet software with a point of view.**
 
-### Hi there! 👋   
-## I am [Bob Lee](https://www.boblee.dev/) :D 
+Computer Science at UNSW Sydney · Frontend / Full-stack  
+Sydney, Australia · [boblee.dev](https://www.boblee.dev) · [Email](mailto:lb15058460816@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bo-li-0a8388389/)
 
-A 20-year-old computer science undergraduate at UNSW-Sydney🧑‍💻.   
-Dedicated to building elegant architectures and non-competitive digital spaces 🍀 — where craft, calm and curiosity matter more than the race.
-<br/>
+Most software asks to be noticed. I’m interested in the opposite: interfaces that leave room to think, systems whose structure stays legible as they grow, and details whose charm comes from how they work.
 
-```typescript
-/**
- * @fileoverview Current System Status & Configuration
- */
-import { FullStackDeveloper } from '@unsw/cs';
-import { Love } from 'family/friends';
-import { Passion } from 'Hatsune Miku'
+Open to frontend and full-stack internships in Sydney.
 
-const BobLee: FullStackDeveloper = {
-  location: 'Sydney, AU',
-  education: 'UNSW (Computer Science)',
-  
-  stack: {
-    frontend: ['React', 'TypeScript', 'TailwindCSS', 'Framer Motion'],
-    backend: ['Node.js', 'Express', 'REST APIs'],
-    database: ['PostgreSQL', 'Redis'],
-    infrastructure: ['Git', 'Docker', 'Vite'],
-    ai_workflow: ['Ollama', 'Codex', 'Claude Code']
-  },
+---
 
-  currentQuests: {
-    Oasis: 'Cultivating a digital portfolio garden with fluid UI/UX.',
-    Ai-edu: 'Integrating ai into education workflow',
-  },
+## Selected work
 
-  execute: () => {
-    console.log("Keep passionate, keep building.");
-  }
-};
+### [Oasis](https://www.boblee.dev) — a digital garden that behaves like a place
 
-BobLee.execute();
-```
-<br/>
+Oasis is where I write, listen, and connect ideas: part publishing system, part music player, part knowledge map. I designed and built it end to end.
 
-<div align="center">
-  <!-- 
-    终极美化版贪吃蛇：Digital Oasis Pixel Pursuit
-    设计理念：
-    1. 彻底像素化：将贡献图转化为像素游戏场景。
-    2. 融入身份：背景包含 UNSW 校园建筑和悉尼天际线的像素缩影。
-    3. 关联项目：贪吃蛇在吃代表代码提交的像素符号（{}, </>, if）。
-    4. 视觉提升：增加动态粒子、发光效果，色调完美契合初音绿 (#39C5BB)。
-  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/digital-oasis-pursuit-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/digital-oasis-pursuit.svg">
-    <img alt="Digital Oasis Pixel Pursuit Animation" src="https://raw.githubusercontent.com/lb15058460816-tech/lb15058460816-tech/output/digital-oasis-pursuit.svg">
-  </picture>
-</div>
+<a href="https://www.boblee.dev">
+  <img src="./assets/oasis.png" alt="Oasis digital garden interface" width="100%">
+</a>
+
+- **Motion, not vibration.** Its Live2D character moves from a smoothed attack–release envelope and beat phase rather than raw FFT values. The head leads; the body follows 180 ms later, turning audio data into movement with weight.
+- **Coordinates with meaning.** Every post becomes a star whose angle encodes its creation date from the beginning of spring. Adding a new post never moves an old one, so the map can become familiar over time.
+- **Chinese typography at the edge.** Social cards render arbitrary Chinese titles by requesting only the required glyphs for each title—a few kilobytes instead of shipping a complete multi-megabyte CJK font.
+- **Useful when the network is not.** Supabase is the source of truth, while a local cache paints the first screen immediately and preserves the garden when cloud access fails.
+
+`React 19` · `TypeScript` · `Tailwind CSS 4` · `Supabase` · `Cloudflare R2` · `Vercel Edge`
+
+[Visit Oasis →](https://www.boblee.dev) · [View source →](https://github.com/BobLee-tech/Oasis)
+
+---
+
+### Adaptiq — AI teaching software for tutoring centres
+
+On a three-person team, I owned teacher reporting, student profiles, the administration console, and bilingual support. I also handled integration across 13 feature pull requests.
+
+- Built a TypeScript AST check for untranslated interface copy, distinguishing missing translations from Chinese text that legitimately belongs in the source.
+- Audited the API after multi-tenancy shipped and found a 374-line unauthenticated route that trusted a `student_id` supplied in the request body; removed the route and its exposed access path.
+- Turned per-organisation module flags from a passive database column into server-enforced policy across 13 routes.
+
+`Next.js` · `TypeScript` · `Supabase` · `Postgres RLS`
+
+---
+
+## Writing
+
+I write long-form notes in Chinese about algorithms, software architecture, design, and learning—usually by taking an idea apart until I can explain why it works.
+
+[Read the garden →](https://www.boblee.dev/#/garden)
+
+---
+
+TypeScript · React · Next.js · Node.js · PostgreSQL / Supabase · Tailwind CSS · Vercel
+
+`#39C5BB` tends to find its way into everything I make.
