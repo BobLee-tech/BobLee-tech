@@ -4,7 +4,7 @@
 
 <a href="https://www.boblee.dev">
   <img
-    src="./assets/miku-oasis-github-banner.png"
+    src="./miku-oasis-github-banner.png"
     alt="Hatsune Miku touching a ripple that becomes the Oasis constellation"
     width="100%"
   >
