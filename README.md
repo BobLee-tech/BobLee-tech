@@ -2,6 +2,14 @@
 
 **I build quiet software with a point of view.**
 
+<a href="https://www.boblee.dev">
+  <img
+    src="./assets/miku-oasis-github-banner.png"
+    alt="Hatsune Miku touching a ripple that becomes the Oasis constellation"
+    width="100%"
+  >
+</a>
+
 Computer Science at UNSW Sydney · Frontend / Full-stack  
 Sydney, Australia · [boblee.dev](https://www.boblee.dev) · [Email](mailto:lb15058460816@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bo-li-0a8388389/)
 
@@ -17,9 +25,6 @@ Open to frontend and full-stack internships in Sydney.
 
 Oasis is where I write, listen, and connect ideas: part publishing system, part music player, part knowledge map. I designed and built it end to end.
 
-<a href="https://www.boblee.dev">
-  <img src="./assets/oasis.png" alt="Oasis digital garden interface" width="100%">
-</a>
 
 - **Motion, not vibration.** Its Live2D character moves from a smoothed attack–release envelope and beat phase rather than raw FFT values. The head leads; the body follows 180 ms later, turning audio data into movement with weight.
 - **Coordinates with meaning.** Every post becomes a star whose angle encodes its creation date from the beginning of spring. Adding a new post never moves an old one, so the map can become familiar over time.
